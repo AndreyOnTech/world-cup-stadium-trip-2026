@@ -104,6 +104,12 @@ world-cup-stadium-trip-2026/
 - Twitter/X: [@andreyontech](https://x.com/andreyontech)
 - Site: [andreyontech.is-a.dev](https://andreyontech.is-a.dev)
 
+### Fontes e Referências
+
+- [Copa do Mundo 2026 - Estádios (FIFA)](https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/copa-do-mundo-2026-estadios-canada-mexico-estados-unidos)
+- [Leaflet.js](https://leafletjs.com/)
+- Ícone de Estádio por [Icons8](https://icons8.com/icon/mFuCgbDlUhK5/stadium)
+
 ---
 
 ## English
@@ -200,6 +206,12 @@ world-cup-stadium-trip-2026/
 - YouTube: [@andreyontech](https://www.youtube.com/@andreyontech)
 - Twitter/X: [@andreyontech](https://x.com/andreyontech)
 - Website: [andreyontech.is-a.dev](https://andreyontech.is-a.dev)
+
+### Sources and References
+
+- [World Cup 2026 - Stadiums (FIFA)](https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/copa-do-mundo-2026-estadios-canada-mexico-estados-unidos)
+- [Leaflet.js](https://leafletjs.com/)
+- Stadium Icon by [Icons8](https://icons8.com/icon/mFuCgbDlUhK5/stadium)
 
 ## License
 
