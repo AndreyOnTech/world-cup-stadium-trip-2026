@@ -11,7 +11,7 @@ https://andreyontech.github.io/world-cup-stadium-trip-2026/
 
 ## PT-BR
 
-### Visao geral
+### Visão geral
 
 Este projeto apresenta os estádios da Copa de 2026 em um mapa interativo e permite visualizar os caminhos possíveis entre todos os estádios listados.
 
