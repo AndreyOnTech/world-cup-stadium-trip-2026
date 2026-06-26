@@ -109,6 +109,7 @@ world-cup-stadium-trip-2026/
 - [Copa do Mundo 2026 - Estádios (FIFA)](https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/copa-do-mundo-2026-estadios-canada-mexico-estados-unidos)
 - [Leaflet.js](https://leafletjs.com/)
 - Ícone de Estádio por [Icons8](https://icons8.com/icon/mFuCgbDlUhK5/stadium)
+- Ícone de Viagem e Turismo por [Prosymbols Premium - Flaticon](https://www.flaticon.com/br/icones-gratis/viagem-e-turismo)
 
 ---
 
@@ -212,6 +213,7 @@ world-cup-stadium-trip-2026/
 - [World Cup 2026 - Stadiums (FIFA)](https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/copa-do-mundo-2026-estadios-canada-mexico-estados-unidos)
 - [Leaflet.js](https://leafletjs.com/)
 - Stadium Icon by [Icons8](https://icons8.com/icon/mFuCgbDlUhK5/stadium)
+- Travel and Tourism Icon by [Prosymbols Premium - Flaticon](https://www.flaticon.com/br/icones-gratis/viagem-e-turismo)
 
 ## License
 
