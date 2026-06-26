@@ -15,6 +15,72 @@
 
 .lateral-topo {
     background: #ddd;
+    padding: 10px;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.techniques-list {
+    flex: 1;
+}
+
+.technique-item {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 5px;
+    padding: 10px;
+    background: #fff;
+    border-radius: 4px;
+    margin-bottom: 8px;
+    border: 1px solid #ccc;
+}
+
+.technique-item span {
+    font-weight: bold;
+    font-size: 12px;
+    color: #333;
+}
+
+.technique-item button {
+    padding: 6px 10px;
+    font-size: 11px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.train-btn {
+    background-color: #2196F3;
+    color: white;
+}
+
+.train-btn:hover {
+    background-color: #0b7dda;
+}
+
+.execute-btn {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.execute-btn:hover {
+    background-color: #45a049;
+}
+
+.ranking {
+    background: #fff;
+    padding: 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    margin-top: 10px;
+}
+
+.ranking h3 {
+    margin: 0 0 10px 0;
+    font-size: 14px;
+    color: #333;
 }
 
 .lateral-baixo {

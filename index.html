@@ -11,16 +11,43 @@
     <body>
         <div class="container">
             <div id='map' class="principal"></div>
-            <div class="lateral-topo"></div>
-            <div class="lateral-baixo">      
-                <input type="checkbox" id="showConnections">Mostrar conexões</input>          
+            <div class="lateral-topo">
+                <div class="techniques-list">
+                    <div class="technique-item">
+                        <span>Força Bruta</span>                        
+                        <button class="execute-btn" data-algorithm="bruteForce">Executar</button>
+                    </div>
+                    <div class="technique-item">
+                        <span>Vizinho Mais Próximo</span>
+                        <button class="execute-btn" data-algorithm="nearestNeighbor">Executar</button>
+                    </div>
+                    <div class="technique-item">
+                        <span>Simulated Annealing</span>
+                        <button class="execute-btn" data-algorithm="simulatedAnnealing">Executar</button>
+                    </div>
+                    <div class="technique-item">
+                        <span>Algoritmo Genético</span>
+                        <button class="execute-btn" data-algorithm="genetic">Executar</button>
+                    </div>
+                    <div class="technique-item">
+                        <span>Colônia de Formigas</span>
+                        <button class="execute-btn" data-algorithm="antColony">Executar</button>
+                    </div>
+                </div>
+                <div id="ranking" class="ranking">
+                    <h3>Ranking</h3>
+                    <!-- Ranking será preenchido aqui -->
+                </div>
             </div>
+            <div class="lateral-baixo">
+                <input type="checkbox" id="showConnections">Mostrar conexões</input><br/>                
+            </div>            
+            <script src="./js/stadiums.js"></script> 
+            <script src="./js/map.js"></script>  
+            <script src="./js/markers.js"></script>
+            <script src="./js/connections.js"></script>
+            <script src="./js/algorithms.js"></script>  
+            <script src="./js/index.js"></script>
         </div>
-       
-        <script src="./js/stadiums.js"></script>
-        <script src="./js/connections.js"></script>
-        <script src="./js/markers.js"></script>
-        <script src="./js/map.js"></script>
-        <script src="./js/index.js"></script>
     </body>
 </html>
